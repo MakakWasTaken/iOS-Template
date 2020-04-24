@@ -2,7 +2,7 @@
    "teamid":"...",
    "name":"iOS-Template",
    "firebase": "true",
-   "appcenterid": "f13b8356-e976-45ed-a997-877c269eb69e",
+   "appcenterid": "",
    "version": "0.0.1",
    "environment": "dev"
 }
