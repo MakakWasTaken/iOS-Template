@@ -6,6 +6,8 @@ target 'iOS-Template' do
   use_frameworks!
 
   # Pods for iOS-Template
+  pod 'Alamofire'
+
   # Crash analytics and regular analytics
   pod 'Firebase/Crashlytics'
   pod 'Firebase/Analytics'
